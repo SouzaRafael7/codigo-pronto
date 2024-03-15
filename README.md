@@ -1,7 +1,6 @@
 # codigo-pronto
 ## Indice
 
-* [Descrição](#descrição)
 * [Site 1](#site-1)
 * [Site 2](#site-2)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
