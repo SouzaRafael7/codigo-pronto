@@ -1,10 +1,14 @@
 # codigo-pronto
 ## Indice
 
+* [introdoção](#introducao)
 * [Site 1](#site-1)
 * [Site 2](#site-2)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autores](#autores)
+
+## Introdução
+ Na atividade foi proposto pegar 2 exemplos de códigos do site Terminal root que utilizam javascript e abordar oque cada elemento do código significa.
  
 ## [Site 1](/atrasar.html)
 O primeiro site tem a funcionalidade de ao clicar na mensagem apresentada na tela, uma outra mensagem não clicável, aparecerá na tela após 3 segundos depois de ter clicado.
