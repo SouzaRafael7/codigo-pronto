@@ -24,7 +24,12 @@ href="#">: Atributo href que define o destino do link. Neste caso, o link aponta
 - "timeMsg()": Valor do atributo onClick que define a função a ser executada quando o link for clicado. Neste caso, a função timeMsg() será chamada.
 
 ## Site 2
-O segundo site 
+O segundo site é um calendário com data e hora em uma linha que a cada clique em atualizar página a hora é atualizada em tempo real.
+
+- text/javascript: indica que o conteúdo das tags de script é código JavaScript.
+- document: Este é um objeto JavaScript integrado que representa todo o documento HTML que está sendo carregado.
+- write(): Este método é usado para inserir conteúdo dinamicamente no documento HTML.
+- A Date(): função é uma função JavaScript integrada que retorna a data e hora atuais como uma string.
 ## Tecnologias Utilizadas
 * [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [<code><img height="32" src="https://www.malwarebytes.com/wp-content/uploads/sites/2/2023/01/asset_upload_file97293_255583.jpg" alt="Git"/></code>](https://git-scm.com/)
