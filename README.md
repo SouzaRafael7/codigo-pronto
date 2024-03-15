@@ -9,6 +9,8 @@
 ## Site 1
 O primeiro site tem a funcionalidade de ao clicar na mensagem apresentada na tela, uma outra mensagem não clicável, aparecerá na tela após 3 segundos depois de ter clicado.
 
+![Site](vdi/3segundos_1.gif)
+
 - O elemento (var) é a forma mais antiga de declarar variáveis no JavaScript.
 - O método setTimeout permite executar um código após um tempo estipulado, que pode ser definido em milissegundos.
 - T é o nome da variável.
@@ -25,6 +27,8 @@ href="#">: Atributo href que define o destino do link. Neste caso, o link aponta
 
 ## Site 2
 O segundo site é um calendário com data e hora em uma linha que a cada clique em atualizar página a hora é atualizada em tempo real.
+
+![Site](img/data%20print.png)
 
 - text/javascript: indica que o conteúdo das tags de script é código JavaScript.
 - document: Este é um objeto JavaScript integrado que representa todo o documento HTML que está sendo carregado.
