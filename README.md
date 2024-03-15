@@ -6,7 +6,7 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autores](#autores)
  
-## [Site 1](http://127.0.0.1:5500/atrasar.html)
+## [Site 1](/atrasar.html)
 O primeiro site tem a funcionalidade de ao clicar na mensagem apresentada na tela, uma outra mensagem não clicável, aparecerá na tela após 3 segundos depois de ter clicado.
 
 ![Site](vdi/3segundos_1.gif)
