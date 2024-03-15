@@ -25,7 +25,7 @@ href="#">: Atributo href que define o destino do link. Neste caso, o link aponta
 - onClick: Atributo de evento que define uma ação a ser executada quando o usuário clica no link.
 - "timeMsg()": Valor do atributo onClick que define a função a ser executada quando o link for clicado. Neste caso, a função timeMsg() será chamada.
 
-## [Site 2](http://127.0.0.1:5500/mostrardata.html)
+## [Site 2](/mostrardata.html)
 O segundo site é um calendário com data e hora em uma linha que a cada clique em atualizar página a hora é atualizada em tempo real.
 
 ![Site](img/data%20print.png)
